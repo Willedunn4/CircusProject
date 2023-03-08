@@ -1,0 +1,8 @@
+C:\Users\wille\source\repos\Circus\bin\Debug\Circus.exe.config
+C:\Users\wille\source\repos\Circus\bin\Debug\Circus.exe
+C:\Users\wille\source\repos\Circus\bin\Debug\Circus.pdb
+C:\Users\wille\source\repos\Circus\obj\Debug\Circus.csproj.AssemblyReference.cache
+C:\Users\wille\source\repos\Circus\obj\Debug\Circus.csproj.SuggestedBindingRedirects.cache
+C:\Users\wille\source\repos\Circus\obj\Debug\Circus.csproj.CoreCompileInputs.cache
+C:\Users\wille\source\repos\Circus\obj\Debug\Circus.exe
+C:\Users\wille\source\repos\Circus\obj\Debug\Circus.pdb
